@@ -1,0 +1,7 @@
+transport\Client$1.class
+transport\Error.class
+transport\TFTPServer.class
+transport\Constants.class
+transport\Client.class
+transport\TFTPServerThread.class
+transport\Opcode.class

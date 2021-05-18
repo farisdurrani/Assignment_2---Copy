@@ -1,0 +1,4 @@
+transport\Error.class
+transport\TFTPClient.class
+transport\Opcode.class
+transport\TFTPClient$1.class
