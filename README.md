@@ -1,4 +1,4 @@
-# TFTP Protocol — A Simplified Reenactment
+# TFTP Protocol — A Simplified Reimplementation
 A reimplementation of a simplified version of the Trivial File Transfer Protocol based on [RFC 1350](https://datatracker.ietf.org/doc/html/rfc1350). A server interacts in real time with multiple clients to send/receive small UDP packets of data and corrects for corruption or losses.
 
 **Author**: [Faris Durrani](https://github.com/farisdurrani/) <br>
